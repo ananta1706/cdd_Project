@@ -1,1 +1,1 @@
-Another login content goes here
+Login content goes here
